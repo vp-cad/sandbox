@@ -1,2 +1,3 @@
 # sandbox
-Learn git
+Learn and experiment with git commands.
+
